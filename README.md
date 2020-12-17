@@ -1,12 +1,15 @@
 ## ![vigneshkumar24's header](https://github.com/vigneshkumar24/vigneshkumar24/blob/main/VK_Cover.png)
 <p align='center'>
-<a href="https://instagram.com/vignesh_kumar_m"><img height="30" src="https://github.com/vigneshkumar24/vigneshkumar24/blob/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vigneshkumar249/"><img height="30" src="https://github.com/vigneshkumar24/vigneshkumar24/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://instagram.com/vignesh_kumar_m"><img height="30" src="https://github.com/vigneshkumar24/vigneshkumar24/blob/main/instagram.png"></a>
+<a href="https://www.linkedin.com/in/vigneshkumar249/"><img height="30" src="https://github.com/vigneshkumar24/vigneshkumar24/blob/main/linkedin.png"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Vignesh Kumar. 👋🤓</h2> 👋
+<h2 align="center">Hello there! My name is Vignesh Kumar. 👋🤓</h2>
 
-### 📫 You can find me in,
+<p align="center">I'm an AIML graduate and Software Analyst from India.
+I'm also currently persuing my PGd in AIML in Canada.</p>
+
+### 📫 How to reach me:
 - [Facebook](https://facebook.com/vignesh2495) 😏
 - [Twitter](https://twitter.com/vignesh2495) 🐤
 - [Instagram](https://instagram.com/vignesh_kumar_) 😎
