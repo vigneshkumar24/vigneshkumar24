@@ -4,10 +4,10 @@
 <a href="https://www.linkedin.com/in/vigneshkumar249/"><img height="30" src="https://github.com/vigneshkumar24/vigneshkumar24/blob/main/linkedin.png"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Vignesh Kumar. 👋🤓</h2>
+<h1 align="center">Hello there! My name is Vignesh Kumar. 👋🤓</h1>
 
 <p align="center">I'm an AIML graduate and Software Analyst from India.
-I'm also currently persuing my PGd in AIML in Canada.</p>
+I'm also currently pursuing my PGd in AIML in Canada.</p>
 
 ### 📫 How to reach me:
 - [Facebook](https://facebook.com/vignesh2495) 😏
