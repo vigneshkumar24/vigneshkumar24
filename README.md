@@ -6,8 +6,7 @@
 
 <h1 align="center">Hello there! My name is Vignesh Kumar. 👋🤓</h1>
 
-<p align="center">I'm an AIML graduate and Software Analyst from India.
-I'm also currently pursuing my PGd in AIML in Canada.</p>
+<p align="center">I'm an AIML graduate and Software Analyst from India and curently working in Vancouver B.C. </p>
 
 ### 📫 How to reach me:
 - [Facebook](https://facebook.com/vignesh2495) 😏
